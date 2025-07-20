@@ -60,22 +60,21 @@ A full-featured e-commerce system built using **Angular**, **Bootstrap**, and **
 
 ## 🧠 Architecture
 
+```bash
 src/
 ├── app/
-│ ├── components/ # Reusable components like Navbar, Footer, Card, Toast
-│ ├── pages/ # Home, Products, Login, Signup, My Orders, Admin pages
-│ ├── services/ # API, Auth, Cart, Toast
-│ ├── guards/ # Route protection
-│ ├── models/ # Interfaces and types
-│ └── app-routing.module.ts
+│   ├── components/         # Reusable UI components like Navbar, Footer, Card, Toast
+│   ├── pages/              # Main application pages: Home, Products, Login, Signup, My Orders, Admin pages
+│   ├── services/           # Application logic and utilities: API handling, Auth, Cart, Toast services
+│   ├── guards/             # Route protection logic (e.g., AuthGuard, AdminGuard)
+│   ├── models/             # Interfaces and TypeScript types used across the app
+│   └── app-routing.module.ts  # Angular routing configuration
 ├── assets/
-│ └── images/
+│   └── images/             # Static images used in the frontend (e.g., product images, banners)
 └── environments/
-└── environment.ts
+    └── environment.ts      # Environment-specific configuration (e.g., API base URLs)
 
-yaml
-Copy
-Edit
+This folder structure is designed for a scalable and maintainable Angular E-Commerce application. Each directory is organized based on functionality, following best practices for modular development.
 
 ---
 
