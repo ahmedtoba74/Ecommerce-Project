@@ -12,11 +12,7 @@ A full-featured e-commerce system built using **Angular**, **Bootstrap**, and **
 
 ## 📸 Screenshots
 
--   Home Page
--   Products Section
--   Admin Dashboard
--   Cart & Order Page  
-    _(Add screenshots here if available)_
+🚀 Coming soon...
 
 ---
 
