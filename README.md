@@ -4,7 +4,7 @@
 
   **A complete, feature-rich e-commerce application built with Angular (Frontend) and a Node.js/Express RESTful API (Backend), featuring distinct portals for users and administrators.**
 
-  <img src="https://i.imgur.com/example.png" alt="E-Commerce Application Interface"/>
+  <img src="ecommerce-frontend/public/EcommerceWebsite.jpg" alt="E-Commerce Application Interface"/>
 
   [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
   [![Angular](https://img.shields.io/badge/Angular-v17-DD0031?logo=angular&logoColor=white)](https://angular.io/)
